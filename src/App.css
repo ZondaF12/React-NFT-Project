@@ -1,3 +1,9 @@
+*,
+*::before,
+*::after {
+  font-family: sans-serif;
+}
+
 .App {
   text-align: center;
 }
